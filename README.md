@@ -9,8 +9,7 @@
 - 😃 UI/UX Designer
 - 📝 Open Source Contributor
 - 😄 Pronouns: She/Her
-- 🎉 Fun-Fact: I ❤️ travelling and listening music . I love reading books and I love food a lot!
-## Languages and Tools
+- 🎉 Fun-Fact: I ❤️ travelling and listening music.
 <p>
   <img src="https://img.shields.io/badge/kotlin-%23F5792A.svg?&style=for-the-badge&logo=kotlin&logoColor=blue"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
