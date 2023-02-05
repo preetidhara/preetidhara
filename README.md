@@ -5,7 +5,7 @@
 
 # About Me 👩
 
-- 📱 Android Developer
+- 💻 Web Development
 - 😃 UI/UX Designer
 - 📝 Open Source Contributor
 - 😄 Pronouns: She/Her
