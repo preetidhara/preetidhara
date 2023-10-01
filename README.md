@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### A Passionate WebFlow Developer & UI/UX Designer
+### A Passionate WebFlow Developer & No Code Developer
 
 
 # About Me 👩
