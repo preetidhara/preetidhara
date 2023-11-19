@@ -1,31 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Prity Dhara</h1>
+<h3 align="center">a passionate Webflow and frontend developer.</h3>
 
-### A Passionate WebFlow Developer & No Code Developer
+- 🔭 I’m currently working on **webflow and frontend projects**
 
+- 🌱 I’m currently learning **React js**
 
-# About Me 👩
+- 👨‍💻 All of my projects are available at [https://pritydhara.webflow.io/](https://pritydhara.webflow.io/)
 
-- 💻 Web Development
-- 😃 UI/UX Designer
-- 📝 Open Source Contributor
-- 😄 Pronouns: She/Her
-- 🎉 Fun-Fact: I ❤️ travelling and listening music.
-<p>
-  <img src="https://img.shields.io/badge/kotlin-%23F5792A.svg?&style=for-the-badge&logo=kotlin&logoColor=blue"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black"/>
+- 💬 Ask me about **Webflow, No code tools**
 
+- 📚 Always exploring new technologies and seeking ways to improve my craft.
+
+- 📫 How to reach me **pritidhara33@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## Reach me via 👇
-<p>
- 
-<a href="https://www.instagram.com/preetidhara/" rel="nofollow"><img src="https://camo.githubusercontent.com/ab5611598549a5126a97e5385bbd140c4fdba496/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d677261792e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
-</p>
-
-[![An image of @pritydhara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritydhara)](https://holopin.io/@pritydhara)
-
-
-## Projects made with ❤️ 👇
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1709992260694380544/IpabLWL7_400x400.jpg" alt="Webflow" width="40" height="40"/>
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
