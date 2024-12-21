@@ -11,7 +11,7 @@
 
 - 📚 Always exploring new technologies and seeking ways to improve my craft.
 
-- 📫 How to reach me **pritidhara33@gmail.com**
+- 📫 How to reach me **pritydhara20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
